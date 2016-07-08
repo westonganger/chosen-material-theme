@@ -1,0 +1,35 @@
+{
+  "name": "chosen-material-theme",
+  "version": "1.0.0",
+  "description": "A Material theme for Chosen Select",
+  "main": "dist/chosen-material-theme.js",
+  "directories": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:westonganger/chosen-material-theme.git"
+  },
+  "keywords": [
+    "material",
+    "chosen",
+    "chosen-select",
+    "select",
+    "chosen-theme",
+    "css"
+  ],
+  "author": "Weston Ganger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/westonganger/chosen-material-theme/issues"
+  },
+  "homepage": "https://github.com/westonganger/chosen-material-theme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-sass": "*",
+    "gulp-autoprefixer": "*",
+    "pump": "*",
+    "del": "*",
+    "gulp-rename": "*",
+    "gulp-release-it": "westonganger/gulp-release"
+  }
+}
