@@ -1,8 +1,8 @@
 {
   "name": "chosen-material-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Material theme for Chosen Select",
-  "main": "dist/chosen-material-theme.js",
+  "main": "./dist/chosen-material-theme.min.css",
   "directories": {},
   "repository": {
     "type": "git",
