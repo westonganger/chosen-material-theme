@@ -5,11 +5,13 @@ A Material theme for Chosen Select. Its also integrates very well with the Boots
 
 # Install
 
-#### Bower or NPM
+#### Yarm, NPM, or Bower
 ```
-bower install chosen-material-theme
+yarn add chosen-material-theme
 
 npm install chosen-material-theme
+
+bower install chosen-material-theme
 ```
 
 #### Rails
